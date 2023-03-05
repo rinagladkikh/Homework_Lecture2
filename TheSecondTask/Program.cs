@@ -5,7 +5,7 @@
 
 
 Console.Write("Введи число: ");
-int UserNumber = Convert.ToInt32(Console.ReadLine());
+int UserNumber = int. Parse(Console. ReadLine());
 string UserString = Convert.ToString(UserNumber);
 
 if(UserString.Length > 2){
