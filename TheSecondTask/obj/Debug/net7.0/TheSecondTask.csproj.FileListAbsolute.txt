@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/bin/Debug/net7.0/TheSecondTask
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/bin/Debug/net7.0/TheSecondTask.deps.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/bin/Debug/net7.0/TheSecondTask.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/bin/Debug/net7.0/TheSecondTask.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/bin/Debug/net7.0/TheSecondTask.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/refint/TheSecondTask.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/TheSecondTask.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheSecondTask/obj/Debug/net7.0/ref/TheSecondTask.dll
