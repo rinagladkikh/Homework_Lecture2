@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/bin/Debug/net7.0/TheThirdTask
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/bin/Debug/net7.0/TheThirdTask.deps.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/bin/Debug/net7.0/TheThirdTask.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/bin/Debug/net7.0/TheThirdTask.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/bin/Debug/net7.0/TheThirdTask.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/refint/TheThirdTask.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/TheThirdTask.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/TheThirdTask/obj/Debug/net7.0/ref/TheThirdTask.dll
