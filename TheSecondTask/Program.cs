@@ -4,7 +4,7 @@
 // 32679 -> 6
 
 
-Console.Write("Введи число: ");
+Console.Write("Введи число:");
 int UserNumber = int. Parse(Console. ReadLine());
 string UserString = Convert.ToString(UserNumber);
 
