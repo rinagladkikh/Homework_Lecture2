@@ -6,7 +6,7 @@
 Console.Write("Введите число, обозначающее день недели: ");
 int UserNumber = int. Parse(Console. ReadLine () !);
 
-if(UserNumber < 6 || UserNumber >1){
+if(UserNumber < 6 || UserNumber>1){
     Console.WriteLine("Это будний день -> нет");
  }
   else if (UserNumber == 6 || UserNumber == 7) {
