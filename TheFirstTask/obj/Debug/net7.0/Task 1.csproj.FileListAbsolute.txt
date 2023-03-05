@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/bin/Debug/net7.0/Task 1
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/bin/Debug/net7.0/Task 1.deps.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/bin/Debug/net7.0/Task 1.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/bin/Debug/net7.0/Task 1.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/bin/Debug/net7.0/Task 1.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/refint/Task 1.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/Task 1.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_2/Task 1/obj/Debug/net7.0/ref/Task 1.dll
